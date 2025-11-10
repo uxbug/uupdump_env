@@ -13,3 +13,5 @@ sudo ln -s /usr/local/bin/.libs/libwim.15.dylib /usr/local/lib/libwim.15.dylib
 > balabala
 
 Fuck Choose language With English will solve this problem.
+
+> new uupdump use wimlib 1.14.4
